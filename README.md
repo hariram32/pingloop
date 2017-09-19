@@ -5,4 +5,6 @@ Just download the file, make the file executable, and run it in terminal with
 
 ./pingloop.sh
 
+Use a text editor to change the site or ip address you wish to ping, and change the sleep timer to whatever interval you want.
+
 Thanks!
